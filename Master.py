@@ -787,7 +787,7 @@ logo ="""\033[1;37m
  
 ----------------------------------------------------
 AUTHOR    : ABDUL HAKIM 
-GITHUB    : AHMASTERBD 
+GITHUB    : **************** 
 FACEBOOK  : ABDULHAKIMBD0
 TOOL NAME : T.MASTER
 TYPE TYPE : PRIVATE 
