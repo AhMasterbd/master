@@ -1,3 +1,5 @@
+rm -rf master
+
 
 git clone https://github.com/AhMasterbd/master
 
