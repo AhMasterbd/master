@@ -87,7 +87,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-def logo()'"""\033[1;37m
+  logo ="""\033[1;37m
 
   __  __           _____ _______ ______ _____  
  |  \/  |   /\    / ____|__   __|  ____|  __ \ 
@@ -103,8 +103,7 @@ FACEBOOK  : AbdulHakimbd0
 TOOL NAME : T.MASTER
 TOLL TYPE : PAID 
 VERSION   : 0.0
----------------------------------------------------"""%(O))
-
+---------------------------------------------------"""
 def reg():
     os.system('termux-setup-storage')
     os.system('clear')
