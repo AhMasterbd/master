@@ -422,12 +422,12 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif ALIYAN in ["1", "01"]:
-			os.system("xdg-open https://youtu.be/gxjhqkJL_h0")
+			os.system("xdg-open https://youtu.be/hakimstudio")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Apna nam type kro")
 			print("")
-			input("\n\033[1;32m  Type Name ==> \033[1;36m")
+			input("\n\033[1;32m  What is Name ==> \033[1;36m")
 			time.sleep(2.1)
 			print("")
 			print("\033[1;32m Successful Bro")
@@ -1317,7 +1317,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/Mrchandu7/trick/blob/main/trick.txt").text
+	r1=requests.get("https://raw.githubusercontent.com/AhMasterbd/ah/main/Approval.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
@@ -1330,8 +1330,8 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32m ALIYAN Toll Free BUT You Need Get Approved First\033[1;37m\n")
-		print(" \033[1;32m Note : ALIYAN FREE HA BHAIYO ENJOYA   \033[1;37m")
+		print(" \033[1;32m MASTER Toll Paid Toll You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m ENJOYA   \033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
 		print("")
@@ -1341,14 +1341,10 @@ def Subscraption():
 		print ("")
 		name = input(" Your Name : ")
 		print ("")
-		gf = input(" Your gf Name : ")
-		print ("")
-		lol = input(" Your Your Email : ")
-		print ("")
-		input(" Press Enter To Send Key")
+	    input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Email%20:%20'+lol+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ah+key1
-		os.system('am start https://wa.me/+923344706269?text=' + tks)
+		os.system('am start https://wa.me/+919394074683?text=' + tks)
 		Subscraption()        
 Subscraption()
 
